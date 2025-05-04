@@ -27,12 +27,6 @@ This project was built as part of my personal journey. It demonstrates my founda
 
 ---
 
-## 📸 Preview
-
-![To-Do App Screenshot](link-to-screenshot-if-any)
-
----
-
 ## 📁 Getting Started
 
 To run the app locally:
